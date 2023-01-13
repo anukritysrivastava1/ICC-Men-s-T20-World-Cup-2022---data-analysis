@@ -5,15 +5,15 @@ We made the highlights of the ICC Men's T20 World Cup 2022 with this ICC Men's T
 ## Getting Started
 
 ### Prerequisites
-1. **Pandas**- for providing fast, flexible, and expressive data structures. you can find instructions on how to install and use Pandas on your computer[here](https://pandas.pydata.org/getting_started.html) 
+1. **Pandas**- for providing fast, flexible, and expressive data structures. you can find instructions on how to install and use Pandas on your computer [here](https://pandas.pydata.org/getting_started.html) 
 
 2. **NumPy** - It is used for working with arrays and a wide variety of mathematical operations on arrays.Instructions of installing NumPy on your computer can be found [here](https://numpy.org/)
 
-3. **Matplotlib** - used for creating 2D graphs and plots by using python scripts. Instruction to install and use can be found[here](https://matplotlib.org/)
+3. **Matplotlib** - used for creating 2D graphs and plots by using python scripts. Instruction to install and use can be found [here](https://matplotlib.org/)
 
-4. **Seaborn** - it helps making statistical graphics in python. Instruction to install and use can be found[here](https://seaborn.pydata.org/)
+4. **Seaborn** - it helps making statistical graphics in python. Instruction to install and use can be found [here](https://seaborn.pydata.org/)
 
-5. **Juputer Notebook** - allows you to create and share documents that contain live code, equations, visualizations and narrative text.Instruction to install and use can be found[here](https://docs.jupyter.org/en/latest/)
+5. **Juputer Notebook** - allows you to create and share documents that contain live code, equations, visualizations and narrative text.Instruction to install and use can be found [here](https://docs.jupyter.org/en/latest/)
 
 ### Installing
 
