@@ -19,7 +19,7 @@ We made the highlights of the ICC Men's T20 World Cup 2022 with this ICC Men's T
 
 Once you have installed all the above mentioned libraries on your computer,
 
-1. Clone the project to your computer by running `git clone https://github.com/cyboravidell/ICC-Men-s-T20-World-Cup-2022---data-analysis` on your Git terminal.
+1. Clone the project to your computer by running `git clone https://github.com/anukritysrivastava1/ICC-Men-s-T20-World-Cup-2022---data-analysis` on your Git terminal.
 
 2. In the directory of the folder `ICC-Men-s-T20-World-Cup-2022---data-analysis` containing the files of the respository, open up the terminal and run `jupyter notebook`.
 
